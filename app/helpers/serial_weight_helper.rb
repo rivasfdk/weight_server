@@ -1,0 +1,2 @@
+module SerialWeightHelper
+end

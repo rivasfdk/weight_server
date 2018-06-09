@@ -1,0 +1,5 @@
+settings:  
+  serialport: 'COM1'
+  baudrate: 2400
+  databits: 8
+  simulate: true
